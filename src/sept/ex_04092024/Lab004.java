@@ -25,6 +25,7 @@ public class Lab004 {
         This will not be printed
         */
         // This is single line comment
+        System.out.println("Ok");
     }
 
 };

@@ -26,6 +26,7 @@ public class Lab004 {
         */
         // This is single line comment
         System.out.println("Ok");
+        System.out.println("This is new line");
     }
 
 };
